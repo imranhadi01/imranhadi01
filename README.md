@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imranhadi01
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security, Design & Development
 - 🌱 I’m currently learning web penetration testing
 - 💞️ I’m looking to collaborate on CTF challanges
 - 📫 How to reach me www.linkedin.com/in/muhammadimran0x
